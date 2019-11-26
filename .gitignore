@@ -1,5 +1,5 @@
 vendor/
-.idea
+.idea/
 node_modules/
 npm-debug.log
 
@@ -19,3 +19,7 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+
+# Remove test.php
+test.php
