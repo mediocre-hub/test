@@ -1,0 +1,16 @@
+{
+    "name": "mediocre/region",
+    "description": "Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mediocre",
+            "email": "greenjames1908@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.3"
+    }
+}
